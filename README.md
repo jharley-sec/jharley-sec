@@ -1,16 +1,14 @@
-## Hi there 👋
+# Joseph Harley — Cybersecurity | Linux | Network Defense & Offense
+USMC Data Systems Administrator · B.S. Cybersecurity Technology (UMGC, in progress)
+CompTIA Linux+ (in progress) · Google Cybersecurity · Google Cloud Cybersecurity
 
-<!--
-**jharley-sec/jharley-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- Linux Server Hardening (CIS-style) — Bash, auditing, Linux+
+- Home SOC Lab — pfSense, Suricata, Wazuh
+- Vulnerability Scanning & Remediation — OpenVAS / Nessus Essentials
+- Python Network Recon Tool — sockets, Nmap automation
+- CTF Write-ups — TryHackMe, Hack The Box, picoCTF
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Linux/UNIX · Windows · Networking (routing, firewalls, switching) · Bash · Python
+Nmap · Wireshark · Vulnerability scanning · Digital forensics · Penetration testing
